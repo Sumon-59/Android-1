@@ -27,5 +27,6 @@ proguard/
 *.ipr
 *.iws
 .idea/
+hudai.txt
 
 ignore.txt
